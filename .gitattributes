@@ -1,0 +1,10 @@
+# Ensure all JavaScript files use LF line endings
+*.js text eol=lf
+
+# Ensure package.json files have LF line endings
+*.json text eol=lf
+
+# Ensure all other text-based files use LF line endings
+*.html text eol=lf
+*.css text eol=lf
+*.md text eol=lf
